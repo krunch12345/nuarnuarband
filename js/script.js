@@ -104,7 +104,7 @@
           }
 
         if (livedemo) {
-          var d = new Date(2021, 2, 31)
+          var d = new Date(2021, 3, 2)
           //d.setDate(d.getDate() + 3)
           settings[$countDownItem.attr('data-type')] = d
         } else {
